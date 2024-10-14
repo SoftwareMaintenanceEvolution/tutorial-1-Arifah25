@@ -1,1 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/O-1AGqKT)
+# Introduction
+<img src="profile.jpg" alt="My Image" width="200"/>
+<p>
+  Hi! I'm <b>UMI ARIFAH BASRI</b>, a student in the Software Maintenance and Evolution course.
+</p>
+<p>
+  I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
+<p>- <b>Fun Fact</b>: I love to be active like playing badminton, volleyball or jogging/briskwalk.</p>
+<p>- <b>Course expectations</b>: To gain hands-on experience in maintaining and evolving software.</p>
+</p>
+
+## GitHub Profile
+You can view my personalized GitHub profile
+[here](https://github.com/Arifah25/UmiArifah.git).
